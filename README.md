@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-<!--
-**WeiL11/WeiL11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 - 🧬 Pioneered the first feasible mouse spinal cord fMRI pipeline, bridging the gap between large-scale neural activity and high-resolution functional imaging.
 - 📉 Specializing in dynamical system modeling for neural time-series, focusing on uncovering latent patterns in high-dimensional biological data.
 - 🛠️ 5+ years of ML expertise ranging from medical imaging denoising and motion tracking to current work in multi-modal Deep Learning (Genomics + fMRI).
