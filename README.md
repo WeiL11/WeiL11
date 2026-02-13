@@ -3,7 +3,7 @@
 
 - 🧬 Pioneered the first feasible mouse spinal cord fMRI pipeline, bridging the gap between neural activity and high-resolution functional imaging.
 - 📉 Specializing in dynamical system modeling for neural time-series, focusing on uncovering latent patterns in high-dimensional biological data.
-- 🛠️ 5+ years of ML expertise ranging from medical imaging segmentation/denoising and motion tracking to current work in multi-modal Deep Learning (Genomics + fMRI).
+- 🛠️ 6+ years of ML expertise ranging from medical imaging segmentation/denoising and motion tracking to current work in multi-modal Deep Learning (Genomics + fMRI).
 - ⚡ Inference Optimization Enthusiast with hands-on experience in accelerating DL models via quantization and high-performance frameworks like vLLM and SGLang
 - 🌱 Expanding my expertise in **the first principles of Deep Learning**, focusing on pushing model inference to hardware limits by overcoming memory-bound and compute-bound bottlenecks.
 
