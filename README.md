@@ -2,10 +2,11 @@
 <h3 align="center">A BME PhD Candidate</h3>
 
 - 🧬 Pioneered the first feasible mouse spinal cord fMRI pipeline, bridging the gap between neural activity and high-resolution functional imaging.
-- 📉 Specializing in dynamical system modeling for neural time-series, focusing on uncovering latent patterns in high-dimensional biological data.
+- 📉 Develop and apply dynamical systems models of neural time-series (neural electrical activity, hemodynamic responses, and dHb dynamics) to identify causal neural–vascular mechanisms and simulate their behavior across brain regions.
 - 🛠️ 7+ years of ML expertise ranging from medical imaging segmentation/denoising and motion tracking/behavior analysis to current work in multi-modal Deep Learning (Genomics + fMRI).
-- ⚡ Inference Optimization Enthusiast with hands-on experience in accelerating DL models via quantization and high-performance frameworks like vLLM and SGLang
+
 - 🌱 Expanding my expertise in **the first principles of Deep Learning**, focusing on pushing model inference to hardware limits by overcoming memory-bound and compute-bound bottlenecks.
+- ⚡ Inference Optimization Enthusiast with hands-on experience in accelerating DL models via quantization and high-performance frameworks like vLLM and SGLang
 
 - 📧 Feel free to reach out to me at tzuweilee@outlook.com.
 
